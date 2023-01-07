@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AresACG
-- 👀 I’m interested in Entrepreneurship and start-up's
-- 🌱 I’m currently learning SEO, digital marketing, trading, investing...'j
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -:- Instagram - Aratratum
+- 👋 Hello, I’m @AresACG
+- 👀 Entrepreneur, artistic and curious.
+- 🌱 Working on bringing my ideas to life mainly in the tech space and in the lifestyle space.
+- 💞️ I’m looking to collaborate on...
+- 📫 Reach me on twitter @aratratum
 
 <!---
 AresACG/AresACG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
