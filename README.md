@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
+
 <h1 align="center">Hello, I am Lobo</h1>
 <h3 align="center">An Entrepreneur interested in Tech, Music, Prompt engineering, AI & ML.</h3>
 
