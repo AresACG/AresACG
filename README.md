@@ -1,7 +1,8 @@
-<iframe src="https://giphy.com/embed/NKEt9elQ5cR68" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68">via GIPHY</a></p>
+<p><img align="centre" height="200" width="1200" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" alt="coding" /></p>
 
 <h1 align="center">Hello, I am Lobo</h1>
 <h3 align="center">An Entrepreneur interested in Tech, Music, Prompt engineering, AI & ML.</h3>
+<p><img align="right" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" alt="coding" /></p>
 
 - 🔭 I’m currently working on **A tech project harnessing the insane capabilities of AI & ML.**
 
@@ -23,7 +24,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=aresacg&show_icons=true&locale=en" alt="aresacg" /></p>
-
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=aresacg&" alt="aresacg" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aresacg&show_icons=true&locale=en" alt="aresacg" /></p>
+<p><img align="upperright" src="https://github-readme-streak-stats.herokuapp.com/?user=aresacg&" alt="aresacg" /></p>
