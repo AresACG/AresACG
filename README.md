@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **A tech project harnessing the insane capabilities of AI & ML.**
 
-- 🌱 I’m currently learning **Python, AI & ML.**
+- 👀 I’m currently learning **Python, AI & ML.**
 
-- 👯 I’m looking to collaborate on [H u m a n 1 3](https://github.com/AresACG/H-u-m-a-n-1-3.git)
+- 🙌🏼 I’m looking to collaborate on [H u m a n 1 3](https://github.com/AresACG/H-u-m-a-n-1-3.git)
 
-- 🤝 I’m looking for help with **Creating the systems, sensors, interfaces, etc needed to make the Device come to life.**
+- ⚡️ I’m looking for help with **Creating the systems, sensors, interfaces, etc needed to make the Device come to life.**
 
 - 📫 How to reach me **prat.exe@gmail.com**
 
