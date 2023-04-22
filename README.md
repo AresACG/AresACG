@@ -1,6 +1,6 @@
 <p><img align="centre" height="200" width="1200" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" alt="coding" /></p>
 
-<h1 align="center">- Hello, I am Lobo -</h1>
+<h1 align="center">- Hi, I am Prats -</h1>
 <h3 align="center">An Entrepreneur interested in Tech, Music, Prompt engineering, AI & ML.</h3>
 <p><img align="right" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" alt="coding" /></p>
 
