@@ -13,9 +13,3 @@
 - ⚡️ I’m looking for help with **the software needed to make the Device come to life.**
 
 - 📫 How to reach me **prat.exe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/PratsARC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PratsARC" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9MHEtBZd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9MHEtBZd" height="30" width="40" /></a>
-</p>
