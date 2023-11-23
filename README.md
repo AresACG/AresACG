@@ -1,4 +1,4 @@
-<p><img align="centre" height="200" width="1200" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" alt="coding" /></p>
+<p><img align="centre" height="200" width="1000" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" alt="coding" /></p>
 
 <h1 align="center">- Hi, I am Prats -</h1>
 <h3 align="center">An Entrepreneur.</h3>
