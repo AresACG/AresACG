@@ -2,4 +2,4 @@
 
 <h1 align="center">Hey there, Pratham this side :)</h1>
 <h3 align="center">I'm an Entrepreneur</h3>
-<p><img align="left" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" alt="coding" /></p>
+<p><img align="center" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" alt="coding" /></p>
